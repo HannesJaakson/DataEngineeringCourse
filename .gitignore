@@ -1,0 +1,5 @@
+.DS_Store
+*.xml.gz
+.salt
+.env
+__pycache__/
