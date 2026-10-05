@@ -1,4 +1,4 @@
--- The five queries from 07_demo_queries.md. Run in project1_demo.
+-- The five queries from 06_demo_queries.md. Run in project1_demo.
 
 -- Query 1
 SELECT d.full_date,

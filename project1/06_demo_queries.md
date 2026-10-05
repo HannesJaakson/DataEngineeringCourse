@@ -1,6 +1,6 @@
-# 7. Demo Queries
+# Demo Queries
 
-These PostgreSQL queries answer the five questions in the [business brief](01_business_brief.md), using the `dw` tables in [the DDL](sql/01_ddl.sql). They cover the full loaded period for the single store. Sales amounts include VAT and are after discounts.
+These PostgreSQL queries answer the five questions in the [business brief](05_business_brief.md), using the `dw` tables in [the DDL](sql/01_ddl.sql). They cover the full loaded period for the single store. Sales amounts include VAT and are after discounts.
 
 ## 1. Daily sales, receipt count and average basket value
 

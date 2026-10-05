@@ -1,4 +1,4 @@
-# 1. Business Brief
+# Business Brief
 
 **Objective:** Design a data warehouse combining one grocery store's sales, local weather and public holidays to support stock planning and promotion decisions.
 

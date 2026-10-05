@@ -1,4 +1,4 @@
-# 2. Datasets
+# Datasets
 
 | # | Dataset | Source & ingestion | Size | Update frequency |
 |---|---|---|---|---|

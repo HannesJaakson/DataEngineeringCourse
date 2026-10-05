@@ -1,4 +1,4 @@
-# 5. Data model – star schema
+# Data model – star schema
 
 Two fact tables share conformed dimensions (a small *fact constellation*). `fact_sales` is the main fact; `fact_payment` exists because payments belong to the receipt, not to individual product lines.
 

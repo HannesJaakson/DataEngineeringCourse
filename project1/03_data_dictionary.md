@@ -1,4 +1,4 @@
-# 6. Data dictionary (schema `dw`)
+# Data dictionary (schema `dw`)
 
 Types are PostgreSQL types. Staging tables (`staging.*`) mirror the sources 1:1 and are documented in `sql/01_ddl.sql`.
 
